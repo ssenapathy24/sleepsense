@@ -1,0 +1,22 @@
+{
+  "window_start": "22:00",
+  "window_end": "12:00",
+  "core_start": "23:00",
+  "core_end": "06:00",
+
+  "sleep_need_minutes": 480,
+  "default_wake_time": "07:30",
+
+  "min_break_minutes": 20,
+  "sleep_threshold": 50,
+  "join_threshold": 35,
+  "max_wake_minutes": 30,
+  "max_split_wake_minutes": 120,
+  "fall_asleep_minutes": 10,
+  "steps_awake_threshold": 15,
+  "still_asleep_minutes": 45,
+
+  "debt_payback_fraction": 0.25,
+  "max_debt_payback_minutes": 60,
+  "auto_save_low_confidence": false
+}

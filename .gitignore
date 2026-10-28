@@ -1,0 +1,11 @@
+# Your real sleep data - keep it private, never push it to GitHub
+sleep_log.txt
+history.csv
+result.json
+
+__pycache__/
+.DS_Store
+.vscode/
+steps.txt
+corrections.csv
+learned.json
